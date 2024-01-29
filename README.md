@@ -26,3 +26,5 @@ $${\color{red}Developer \space \color{black} | \space \color{green}Engineer \spa
   <a href="https://linkedin.com/in/zeynep-koker/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Zeynep Koker Linkedin Page" height="40" width="40" /></a>
   <a href="mailto:zeyneepkkr@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Zeynep Koker gmail adress" height="30" width="40" /></a>
 </p>
+<p>Zeynep Koker</p>
+<p>zeyneepkkr@gmail.com</p>
