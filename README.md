@@ -1,4 +1,4 @@
-$${\color{red}Data \space Scientist \color{black} | \space \color{green}Engineer \space \color{black} | \space  \color{blue}Computational \space Biologist}$$
+$${\color{red}Data \space Scientist \color{black} \space | \space \color{green}Engineer \space \color{black} | \space  \color{blue}Computational \space Biologist}$$
 ---
 
 <h3 style="font-weight: bold;">Skills</h3>
