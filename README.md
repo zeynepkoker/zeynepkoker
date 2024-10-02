@@ -13,8 +13,8 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
   </ul>
   
 <h3 style="font-weight: bold;">Experience</h3>
-<p align="left">Güriş Teknoloji AŞ. <tt align="right">February 2024 – Present</tt></p>
-<i>Data Scientist </i>
+<p align="left">Data Scientist<tt align="right">February 2024 – Present</tt></p>
+<i>Güriş Teknoloji AŞ.</i>
 
 <h3 style="font-weight: bold;">Education</h3>
 
