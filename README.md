@@ -11,6 +11,9 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
     <li><strong>Soft Skills: </strong>Active learning, Motivated, Problem Solving, Teamwork</li>
     <li><strong>Languages: </strong>English (Fluent), Turkish (Native)</li>
   </ul>
+  
+<h3 style="font-weight: bold;">Experience</h3>
+<p align="left">Güriş Teknoloji AŞ. -Data Scientist <tt align="right">February 2024 – Present</tt></p>
 
 <h3 style="font-weight: bold;">Education</h3>
 
