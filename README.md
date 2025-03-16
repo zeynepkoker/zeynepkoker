@@ -1,5 +1,4 @@
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-red)
-![Engineer](https://img.shields.io/badge/Engineer-green)
+**${\color{red}Data \space Scientist}$** | **${\color{green}Engineer}$**
 
 ---
 
