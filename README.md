@@ -1,4 +1,4 @@
-$${\color{red}Data \space Scientist \color{black} \space | \space \color{green}Engineer \space \color{black} $$
+$${\color{red}Data \space Scientist \color{black} \space | \space \color{green}Engineer $$
 ---
 
   ## 🚀 Programming Languages
