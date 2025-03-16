@@ -1,4 +1,6 @@
-**${\color{red}Senior \space Data \space Scientist}$** | **${\color{blue}Developer}$** | **${\color{green}Engineer}$**
+
+<p style="color:red;">Senior Data Scientist</p> | <p style="color:blue;">Developer</p> | <p style="color:green;">Engineer</p>
+
 ---
 
 ## 🚀 Programming Languages
