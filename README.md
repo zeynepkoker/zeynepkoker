@@ -1,5 +1,6 @@
+<h3 style="font-weight: bold;">Senior Data Scientist | Developer | Engineer</h3>
 
-## Senior Data Scientist | Developer | Engineer
+---
 
 ### 🚀 Programming Languages
 
