@@ -41,7 +41,7 @@
 
 ### Top Languages
 
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact"></p>
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact" height="180"></p>
 
 ### GitHub Stats & Streak Stats
 
