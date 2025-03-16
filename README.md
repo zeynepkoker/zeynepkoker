@@ -1,4 +1,4 @@
-**${\color{red}Data \space Scientist}$** | **${\color{green}Engineer}$**
+**$${\color{red}Data \space Scientist}$$** | **$${\color{green}Engineer}$$**
 
 ---
 
