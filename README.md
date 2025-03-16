@@ -46,8 +46,8 @@
 ### GitHub Stats & Streak Stats
 
 <p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true" width="49%" />
-  <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker" width="49%" />
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true&hide_title=true&count_private=true" width="500" />
+  <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker&hide_title=true" width="500" />
 </p>
 
 <p align="center">
