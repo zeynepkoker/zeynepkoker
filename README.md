@@ -1,4 +1,4 @@
-<h3 style="font-weight: bold;">Senior Data Scientist | Developer | Engineer</h3>
+<h3 style="font-weight: bold;">Senior Data Scientist  |  Developer  |  Engineer</h3>
 
 ---
 
