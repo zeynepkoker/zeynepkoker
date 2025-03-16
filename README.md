@@ -40,7 +40,7 @@
 <h3 style="font-weight: bold;">Experience</h3>
 <p align="left">Senior Data Scientist <tt align="right">January 2025 – Present</tt></p>
 <p align="left">Data Scientist <tt align="right">February 2024 – January 2025</tt></p>
-<i>Güriş Teknoloji AŞ.</i>
+<i>GURIS Teknology</i>
 
 <h3 style="font-weight: bold;">Education</h3>
 
