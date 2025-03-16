@@ -59,15 +59,11 @@
 
 ## Top Languages
 
-<p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact)
-</p>
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact"></p>
 
 ## Streak Stats
 
-<p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker)
-</p>
+<p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker"></p>
 
 <h3 style="font-weight: bold;">Contact</h3>
 
