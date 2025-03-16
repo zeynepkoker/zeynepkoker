@@ -3,26 +3,26 @@
 
 ---
 
-# 🚀 Programming Languages
+### 🚀 Programming Languages
 
 - **Python** | **R Programming** | **Bash Script**
 - **HTML/CSS** | **JavaScript** | **Visual Basic for Applications (VBA)**
 - **SQL** | **TCL Script** | **MATLAB** | **Mathcad** | **LaTeX**
 
-# 🛠️ Developer Tools
+### 🛠️ Developer Tools
 
 - **PyCharm** | **VS Code** | **Jupyter Notebook** | **Docker** | **MLflow**
   
-## 🌐 Technologies & Frameworks
+### 🌐 Technologies & Frameworks
 
 - **Linux** | **GitHub** | **PowerShell** | **Node.js** | **Angular**
 
-## 📊 Data Management Tools
+### 📊 Data Management Tools
 
 - **Google BigQuery** | **PostgreSQL** | **MongoDB**
 - **Apache Airflow** | **Apache Kafka** | **Azure Blob Storage**
 
-## 🔬 Computational Science Tools
+### 🔬 Computational Science Tools
 
 - **Bioinformatics Algorithms** | **AMBER** | **NAMD** | **Gaussian**
 - **VMD** | **Pymol** | **Autodock Vina**
