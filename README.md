@@ -39,11 +39,7 @@
 <p align="left">Bachelor of Science in Biomedical Engineering <tt>2015 – 2021</tt></p>
 <i>TOBB University of Economics and Technology</i>
 
-### Top Languages
-
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact" height="180"></p>
-
-### GitHub Stats & Streak Stats
 
 <p align="center">
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true&hide_title=true&count_private=true" height="180" />
