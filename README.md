@@ -51,10 +51,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.github.com/zeynepkoker"><img src="https://img.shields.io/github/followers/zeynepkoker?style=social" height="40"/></a>
-  <a href="https://www.linkedin.com/in/zeynep-koker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"height="40" /></a>
+  <a href="https://www.github.com/zeynepkoker"><img src="https://img.shields.io/github/followers/zeynepkoker?style=social" height="30"/></a>
+  <a href="https://www.linkedin.com/in/zeynep-koker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"height="30" /></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=zeynepkoker" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=zeynepkoker" height="30"/>
 </p>
 
 ### Contact
