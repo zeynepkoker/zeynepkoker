@@ -26,19 +26,19 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact)
 
 ## Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker)
 
 ## Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=dracula)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeynepkoker&theme=dracula)
 
 
 <h3 style="font-weight: bold;">Contact</h3>
