@@ -40,7 +40,7 @@
 <p align="left">Bachelor of Science in Biomedical Engineering <tt>2015 – 2021</tt></p>
 <i>TOBB University of Economics and Technology</i>
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true"></p>
 <p align="center">
@@ -50,15 +50,15 @@
 <img src="https://komarev.com/ghpvc/?username=zeynepkoker"/>
 </p>
 
-## Top Languages
+### Top Languages
 
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact"></p>
 
-## Streak Stats
+### Streak Stats
 
 <p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker"></p>
 
-## Contact
+### Contact
 
 <p>
   <a href="https://linkedin.com/in/zeynep-koker/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Zeynep Koker Linkedin Page" height="40" width="40" /></a>
