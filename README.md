@@ -1,5 +1,4 @@
-<span style="color: red; font-weight: bold; font-size: 20px;">DATA SCIENTIST</span> | <span style="color: green; font-weight: bold; font-size: 20px;">ENGINEER</span>
-
+**${\color{red}Data \space Scientist}$** | **${\color{green}Engineer}$**
 ---
 
   ## 🚀 Programming Languages
