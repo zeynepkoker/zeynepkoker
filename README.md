@@ -1,5 +1,5 @@
 
-**Senior Data Scientist** | **Developer** | **Engineer**
+## Senior Data Scientist | Developer | Engineer
 
 ---
 
