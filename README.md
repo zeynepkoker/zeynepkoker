@@ -1,5 +1,5 @@
 
-<p style="color:red;">Senior Data Scientist</p> | <p style="color:blue;">Developer</p> | <p style="color:green;">Engineer</p>
+<span style="color:red;">Senior Data Scientist</span> | <span style="color:blue;">Developer</span> | <span style="color:green;">Engineer</span>
 
 ---
 
