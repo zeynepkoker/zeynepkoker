@@ -26,7 +26,13 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true"></p>
+<p align="center">
+<a href="https://www.github.com/zeynepkoker"><img src="https://img.shields.io/github/followers/zeynepkoker?style=social"/></a>
+<a href="https://www.linkedin.com/in/nlztrk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=zeynepkoker"/>
+</p>
 
 ## Top Languages
 
