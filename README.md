@@ -1,4 +1,4 @@
-$${\color{red}Data \space Scientist \color{black} \space | \space \color{green}Engineer $$
+<span style="color: red;">Data Scientist</span> | <span style="color: green;">Engineer</span>
 ---
 
   ## 🚀 Programming Languages
