@@ -34,6 +34,8 @@
 <p align="left">Data Scientist <tt align="right">February 2024 – January 2025</tt></p>
 <i>GURIS Teknology</i>
 
+---
+
 <h3 style="font-weight: bold;">Education</h3>
 
 <p align="left">Bachelor of Science in Biomedical Engineering <tt>2015 – 2021</tt></p>
@@ -61,5 +63,5 @@
   <a href="https://linkedin.com/in/zeynep-koker/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Zeynep Koker Linkedin Page" height="40" width="40" /></a>
   <a href="mailto:zeyneepkkr@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Zeynep Koker gmail adress" height="30" width="40" /></a>
 </p>
-<p>Zeynep Koker Orten</p>
-<p>zeyneepkkr@gmail.com</p>
+<h3 style="font-weight: bold;">Zeynep Koker Orten</h3>
+<h3 style="font-weight: bold;">Contact: <a href="mailto:zeyneepkkr@gmail.com" style="text-decoration: none; color: inherit;">zeyneepkkr@gmail.com</a></h3>
