@@ -11,8 +11,45 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
     <li><strong>Soft Skills: </strong>Active learning, Motivated, Problem Solving, Teamwork</li>
     <li><strong>Languages: </strong>English (Fluent), Turkish (Native)</li>
   </ul>
+
+  ## 🚀 Programming Languages
+
+- **Python** | **R Programming** | **Bash Script**
+- **HTML/CSS** | **JavaScript** | **Visual Basic for Applications (VBA)**
+- **SQL** | **TCL Script** | **MATLAB** | **Mathcad** | **LaTeX**
+
+## 🛠️ Developer Tools
+
+- **PyCharm** | **VS Code** | **Jupyter Notebook**
+  
+## 🌐 Technologies & Frameworks
+
+- **Linux** | **GitHub** | **PowerShell**
+
+## 📊 Data Management Tools
+
+- **Google BigQuery** | **PostgreSQL** | **MongoDB**
+- **Apache Airflow** | **Apache Kafka**
+
+## 🔬 Computational Science Tools
+
+- **Bioinformatics Algorithms** | **AMBER** | **NAMD** | **Gaussian**
+- **VMD** | **Pymol** | **Autodock Vina**
+
+## 💡 Soft Skills
+
+- **Active Learning** | **Motivated** | **Problem Solving**
+- **Teamwork** | **Communication**
+
+## 🌍 Languages
+
+- **English** (Fluent)
+- **Turkish** (Native)
+
+---
   
 <h3 style="font-weight: bold;">Experience</h3>
+<p align="left">Senior Data Scientist <tt align="right">January 2025 – Present</tt></p>
 <p align="left">Data Scientist <tt align="right">February 2024 – Present</tt></p>
 <i>Güriş Teknoloji AŞ.</i>
 
