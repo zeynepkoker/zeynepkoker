@@ -38,7 +38,7 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
 
 ## Activity Graph
 
-![GitHub Activity](https://raw.githubusercontent.com/Platane/special-contributions/master/github-contribution-grid-snake.svg)
+![GitHub Activity](https://raw.githubusercontent.com/zeynepkoker/master/github-contribution-grid-snake.svg)
 
 
 <h3 style="font-weight: bold;">Contact</h3>
