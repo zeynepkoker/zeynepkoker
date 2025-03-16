@@ -1,7 +1,7 @@
 **${\color{red}Senior \space Data \space Scientist}$** | **${\color{blue}Developer}$** | **${\color{green}Engineer}$**
 ---
 
-  ## 🚀 Programming Languages
+## 🚀 Programming Languages
 
 - **Python** | **R Programming** | **Bash Script**
 - **HTML/CSS** | **JavaScript** | **Visual Basic for Applications (VBA)**
@@ -9,31 +9,22 @@
 
 ## 🛠️ Developer Tools
 
-- **PyCharm** | **VS Code** | **Jupyter Notebook**
+- **PyCharm** | **VS Code** | **Jupyter Notebook** | **Docker** | **MLflow**
   
 ## 🌐 Technologies & Frameworks
 
-- **Linux** | **GitHub** | **PowerShell**
+- **Linux** | **GitHub** | **PowerShell** | **Node.js** | **Angular**
 
 ## 📊 Data Management Tools
 
 - **Google BigQuery** | **PostgreSQL** | **MongoDB**
-- **Apache Airflow** | **Apache Kafka**
+- **Apache Airflow** | **Apache Kafka** | **Azure Blob Storage**
 
 ## 🔬 Computational Science Tools
 
 - **Bioinformatics Algorithms** | **AMBER** | **NAMD** | **Gaussian**
 - **VMD** | **Pymol** | **Autodock Vina**
 
-## 💡 Soft Skills
-
-- **Active Learning** | **Motivated** | **Problem Solving**
-- **Teamwork** | **Communication**
-
-## 🌍 Languages
-
-- **English** (Fluent)
-- **Turkish** (Native)
 
 ---
   
