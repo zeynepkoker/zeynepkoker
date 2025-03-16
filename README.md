@@ -1,4 +1,5 @@
-${\color{red}Data \space Scientist} \space | \space {\color{green}Engineer}
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-red)
+![Engineer](https://img.shields.io/badge/Engineer-green)
 
 ---
 
