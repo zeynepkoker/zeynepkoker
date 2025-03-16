@@ -3,13 +3,13 @@
 
 ---
 
-## 🚀 Programming Languages
+# 🚀 Programming Languages
 
 - **Python** | **R Programming** | **Bash Script**
 - **HTML/CSS** | **JavaScript** | **Visual Basic for Applications (VBA)**
 - **SQL** | **TCL Script** | **MATLAB** | **Mathcad** | **LaTeX**
 
-## 🛠️ Developer Tools
+# 🛠️ Developer Tools
 
 - **PyCharm** | **VS Code** | **Jupyter Notebook** | **Docker** | **MLflow**
   
