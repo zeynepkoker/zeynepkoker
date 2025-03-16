@@ -1,4 +1,4 @@
-<span style="color: red;">Data Scientist</span> | <span style="color: green;">Engineer</span>
+${\color{red}Data \space Scientist} \space | \space {\color{green}Engineer}
 
 ---
 
