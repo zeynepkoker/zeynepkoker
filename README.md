@@ -1,6 +1,5 @@
 
 ## Senior Data Scientist | Developer | Engineer
-
 ---
 
 ### 🚀 Programming Languages
