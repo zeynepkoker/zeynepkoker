@@ -65,7 +65,7 @@
 
 <p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker"></p>
 
-<h3 style="font-weight: bold;">Contact</h3>
+## Contact
 
 <p>
   <a href="https://linkedin.com/in/zeynep-koker/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Zeynep Koker Linkedin Page" height="40" width="40" /></a>
