@@ -1,4 +1,4 @@
-**${\color{red}Data \space Scientist}$** | **${\color{green}Engineer}$**
+**${\color{red}Senior \space Data \space Scientist}$** | ${\color{blue}Developer}$** | **${\color{green}Engineer}$**
 ---
 
   ## 🚀 Programming Languages
