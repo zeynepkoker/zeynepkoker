@@ -36,10 +36,6 @@ $${\color{red}Data \space Scientist \color{black} \space | \space \color{green}E
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker)
 
-## Activity Graph
-
-![GitHub Activity](https://raw.githubusercontent.com/zeynepkoker/master/github-contribution-grid-snake.svg)
-
 
 <h3 style="font-weight: bold;">Contact</h3>
 
