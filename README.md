@@ -39,23 +39,23 @@
 <p align="left">Bachelor of Science in Biomedical Engineering <tt>2015 – 2021</tt></p>
 <i>TOBB University of Economics and Technology</i>
 
-### GitHub Stats
-
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true"></p>
-<p align="center">
-<a href="https://www.github.com/zeynepkoker"><img src="https://img.shields.io/github/followers/zeynepkoker?style=social"/></a>
-<a href="https://www.linkedin.com/in/zeynep-koker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=zeynepkoker"/>
-</p>
-
 ### Top Languages
 
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepkoker&layout=compact"></p>
 
-### Streak Stats
+### GitHub Stats & Streak Stats
 
-<p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker"></p>
+<p align="center">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=zeynepkoker&show_icons=true" width="48%" />
+  <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepkoker" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/zeynepkoker"><img src="https://img.shields.io/github/followers/zeynepkoker?style=social"/></a>
+  <a href="https://www.linkedin.com/in/zeynep-koker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=zeynepkoker"/>
+</p>
 
 ### Contact
 
